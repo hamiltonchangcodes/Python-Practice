@@ -1,2 +1,2 @@
 # Python-Practice
-Set up to pracitce coding.
+Set up to practice coding.
